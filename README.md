@@ -9,7 +9,7 @@ Dokumentasi ini menjelaskan tentang cara mengakses layanan data Shofa Collection
 ## Base URL
 
 ```
-[https://uas-dpsi.vercel.app](https://proyek-akhir-dpsi.vercel.app)
+[https://proyek-akhir-dpsi.vercel.app]
 ```
 
 ## Full Dokumentasi Postman
